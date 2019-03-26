@@ -1,3 +1,3 @@
-if (!!test)
+if (test)
 {
 }
